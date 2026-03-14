@@ -29,11 +29,12 @@ Analyze historical annual mean temperature data (1990–2024) to:
 
 ## 🗂 Repository Structure
 
+```plaintext
 global-temperature-analysis/
 ├── proj.R                  # Main Shiny app file
 ├── world_temp.csv          # Original temperature dataset (1990–2024)
-├── Prob_temperature_world.Rproj
-├── README.md
+├── Prob_temperature_world.Rproj  # RStudio project file
+├── README.md               # This file
 
 
 ## 📊 Dataset
